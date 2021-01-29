@@ -1,12 +1,9 @@
 "use strict";
 
-//console.log(4 + +"5");
+if (4 == 9) {
+    console.log('Ok!');
+} else {
+    console.log('error');
+}
 
-let incr = 10,
-    decr = 10;
-
-//++incr;
-//--decr;
-
-//console.log(++incr);
-//console.log(--decr);
+const num = 50;
